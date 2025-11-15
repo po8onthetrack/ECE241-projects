@@ -1,1 +1,1 @@
-My verilog code for ECE241 labs and projects
+My verilog code for ECE241 labs
